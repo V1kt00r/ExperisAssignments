@@ -1,0 +1,19 @@
+div{
+    background-color:cornsilk ;
+    border: 10px solid ;
+    display: inline-block;
+    max-width:  200px;
+    margin: 50px;
+    padding: 10px;
+    font-family: "Lucida Console", "Courier New", monospace;
+     
+
+}
+
+section{
+    background-color: aliceblue;
+    color:black;
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+}
