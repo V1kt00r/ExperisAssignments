@@ -1,0 +1,39 @@
+section{
+    background-color: aliceblue;
+    color:black;
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    border: 5px solid cadetblue;
+}
+div{
+    background-color:cornsilk ;
+    border: 10px solid ;
+    display: inline-block;
+    max-width:  200px;
+    margin: 50px;
+    padding: 10px;
+    font-family: "Lucida Console", "Courier New", monospace;
+    max-height: 300px;    
+}
+
+div.div2{ 
+    border: 10px solid ;
+    max-height: 300px;
+}
+
+div.div3{ 
+    border: 10px solid ;
+    max-height: 300px;
+}
+
+div.div4{
+    border: 10px solid;
+    max-height: 1000px;
+
+}
+
+button{
+    border-radius: 12px;
+
+}
